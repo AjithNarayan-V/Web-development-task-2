@@ -1,0 +1,18 @@
+{
+  "name": "req-res",
+  "version": "1.0.0",
+  "description": "req-res",
+  "main": "server.js",
+  "scripts": {
+    "test": "res-res test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "req-res"
+  ],
+  "author": "ajith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
